@@ -6,3 +6,4 @@ Daftar biodata siswa baru
 - Budi
 - Kevin
 - Ilman
+- Agung
